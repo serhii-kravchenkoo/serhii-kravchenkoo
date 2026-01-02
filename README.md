@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Serhii Kravchenko
 
 ## Junior / Trainee Fullstack Developer  
-Building modern web applications
-
 <!-- BADGES -->
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
