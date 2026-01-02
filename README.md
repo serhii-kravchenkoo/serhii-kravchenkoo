@@ -36,23 +36,22 @@ TravelTrucks — Camper Rental App built with **React**.
 **Key features:**
 - Camper search and filtering  
 - Detailed camper information  
-- Ppossibility of booking for the desired date
+- Possibility to book a camper for a selected date
 
 ---
 
 ###  [clothica-shop](https://clothica-front.vercel.app/)
-A responsive landing page for an ice cream brand, developed as a **team project**.
+An online clothing store built with React, developed as a **team project**.
 
 **Highlights:**
 - Fully responsive layout  
 - Semantic HTML  
-- Styled with **SASS** using **BEM methodology**  
 - Focus on accessibility and clean UI
 
 ---
 
 ###  [booksy](https://d-yv.github.io/project-dev1team/)
-A responsive landing page for an ice cream brand, developed as a **team project**.
+A responsive single-page online bookstore developed as a team project, developed as a **team project**.
 
 **Highlights:**
 - Fully responsive, mobile-first layout  
@@ -81,4 +80,4 @@ A responsive landing page for an ice cream brand, developed as a **team project*
 
 - [LinkedIn](https://www.linkedin.com/in/sergiy-kravchenkoo/)
 - [Telegram](https://t.me/boJack83)
-- [Email](sergkrava1983@gmail.com)
+- [Email](mailto:sergkrava1983@gmail.com)
