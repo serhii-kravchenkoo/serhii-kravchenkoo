@@ -30,8 +30,8 @@ Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 ## 📌 Featured Projects
 
-###  [campers-rent](https://campers-rent-nu.vercel.app/)
-TravelTrucks — Camper Rental App built with **React**.
+### 🚐 **[Campers Rent](https://campers-rent-nu.vercel.app/)**
+**TravelTrucks** — Camper Rental App built with **React**.
 
 **Key features:**
 - Camper search and filtering  
@@ -40,7 +40,7 @@ TravelTrucks — Camper Rental App built with **React**.
 
 ---
 
-###  [clothica-shop](https://clothica-front.vercel.app/)
+### 👕 **[Clothica Shop](https://clothica-front.vercel.app/)**
 An online clothing store built with React, developed as a **team project**.
 
 **Highlights:**
@@ -50,8 +50,8 @@ An online clothing store built with React, developed as a **team project**.
 
 ---
 
-###  [booksy](https://d-yv.github.io/project-dev1team/)
-A responsive single-page online bookstore developed as a team project, developed as a **team project**.
+### 📚 **[Booksy](https://d-yv.github.io/project-dev1team/)**
+A responsive single-page online bookstore developed as a **team project**.
 
 **Highlights:**
 - Fully responsive, mobile-first layout  
