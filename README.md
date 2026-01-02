@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Serhii Kravchenko
 
 ## Junior / Trainee Fullstack Developer  
-**React | Node.js | JavaScript**
+Building modern web applications
 
 <!-- BADGES -->
 <p align="left">
