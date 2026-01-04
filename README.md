@@ -30,8 +30,6 @@ Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 ### 🚐 **[Campers Rent](https://campers-rent-nu.vercel.app/)**
 **TravelTrucks** — Camper Rental App built with **React**.
-
-**Key features:**
 - Camper search and filtering  
 - Detailed camper information  
 - Possibility to book a camper for a selected date
@@ -40,8 +38,6 @@ Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 ### 👕 **[Clothica Shop](https://clothica-front.vercel.app/)**
 An online clothing store built with React, developed as a **team project**.
-
-**Highlights:**
 - Fully responsive layout  
 - Semantic HTML  
 - Focus on accessibility and clean UI
@@ -50,8 +46,6 @@ An online clothing store built with React, developed as a **team project**.
 
 ### 📚 **[Booksy](https://d-yv.github.io/project-dev1team/)**
 A responsive single-page online bookstore developed as a **team project**.
-
-**Highlights:**
 - Fully responsive, mobile-first layout  
 - Semantic and accessible HTML markup  
 - Responsive images (WebP, 1x/2x retina support)  
