@@ -27,7 +27,7 @@ Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 ## 📌 Featured Projects
 
-### 🚐 **[Campers Rent](https://campers-rent-nu.vercel.app/)**
+### 🚐 **[Campers Rent](https://github.com/serhii-kravchenkoo/campers-rent)**
 **TravelTrucks** — Camper Rental App built with **React**.
 - Camper search and filtering  
 - Detailed camper information  
@@ -35,7 +35,7 @@ Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 ---
 
-### 👕 **[Clothica Shop](https://clothica-front.vercel.app/)**
+### 👕 **[https://github.com/serhii-kravchenkoo/clothica-shop)**
 An online clothing store built with React, developed as a **team project**.
 - Fully responsive layout  
 - Semantic HTML  
@@ -43,7 +43,7 @@ An online clothing store built with React, developed as a **team project**.
 
 ---
 
-### 📚 **[Booksy](https://d-yv.github.io/project-dev1team/)**
+### 📚 **[Booksy](https://github.com/serhii-kravchenkoo/booksy)**
 A responsive single-page online bookstore developed as a **team project**.
 - Fully responsive, mobile-first layout  
 - Semantic and accessible HTML markup  
