@@ -20,9 +20,9 @@ Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 - **Frontend:** JavaScript (ES6+), TypeScript, React, Redux, Next.js  
 - **Backend:** Node.js, REST API  
-- **Styling:** HTML5, CSS3, SASS, BEM  
+- **Styling:** HTML5, CSS3, SASS 
 - **Tools:** Git, GitHub, npm  
-- **Databases:** MongoDB (basic)
+- **Databases:** MongoDB
 
 ---
 
