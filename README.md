@@ -35,7 +35,7 @@ Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 ---
 
-### 👕 **[Clothica][https://github.com/serhii-kravchenkoo/clothica-shop)**
+### 👕 **[Clothica](https://github.com/serhii-kravchenkoo/clothica-shop)**
 An online clothing store built with React, developed as a **team project**.
 - Fully responsive layout  
 - Semantic HTML  
