@@ -20,7 +20,7 @@ I am eager to learn, grow professionally, and contribute to real-world projects 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -51,8 +51,6 @@ I am eager to learn, grow professionally, and contribute to real-world projects 
   Luxury yacht search website. Adaptive design, animations, modal windows, and burger menu for ordering.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhii-kravchenkoo&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
 
