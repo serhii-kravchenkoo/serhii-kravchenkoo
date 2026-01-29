@@ -1,74 +1,61 @@
-# 👋 Hi, I'm Serhii Kravchenko
+<h1 align="center">Hi, I'm Serhii Kravchenko 👋</h1>
 
-## Junior Fullstack Developer  
-<!-- BADGES -->
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js&logoColor=white" />
+<p>
+I am a motivated Junior Fullstack Developer with hands-on experience in building web applications using **JavaScript, React, and Node.js**. I focus on writing clean, maintainable code and creating user-friendly, responsive interfaces.
+I am eager to learn, grow professionally, and contribute to real-world projects in a collaborative team environment.
 </p>
-I am a motivated Junior Fullstack Developer with hands-on experience in building web applications using **JavaScript, React, and Node.js**.  
-I focus on writing clean, maintainable code and creating user-friendly, responsive interfaces.
-
-I am eager to learn, grow professionally, and contribute to real-world projects in a collaborative team environment.  
-Comfortable working with **REST APIs, Git, and Agile/Scrum workflows**.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend:** JavaScript (ES6+), TypeScript, React, Redux, Next.js  
-- **Backend:** Node.js, REST API  
-- **Styling:** HTML5, CSS3, SASS 
-- **Tools:** Git, GitHub, npm  
-- **Databases:** MongoDB
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
----
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📌 Featured Projects
-
-### 🚐 **[Campers Rent](https://github.com/serhii-kravchenkoo/campers-rent)**
-**TravelTrucks** — Camper Rental App built with **React**.
-- Camper search and filtering  
-- Detailed camper information  
-- Possibility to book a camper for a selected date
-
----
-
-### 👕 **[Clothica](https://github.com/serhii-kravchenkoo/clothica-shop)**
-An online clothing store built with React, developed as a **team project**.
-- Fully responsive layout  
-- Semantic HTML  
-- Focus on accessibility and clean UI
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-### 📚 **[Booksy](https://github.com/serhii-kravchenkoo/booksy)**
-A responsive single-page online bookstore developed as a **team project**.
-- Fully responsive, mobile-first layout  
-- Semantic and accessible HTML markup  
-- Responsive images (WebP, 1x/2x retina support)  
-- Interactive UI elements, sliders, and form validation
+## 🚀 Projects
+
+### 💻 Personal Projects
+
+- [Note Hub](https://github.com/serhii-kravchenkoo/09-auth) – Next.js • REST API  
+  Developed a full-featured note-taking application with user authentication and CRUD functionality.
+
+- [Campers-rent](https://github.com/serhii-kravchenkoo/campers-rent/) – HTML • CSS • JavaScript  
+  Built a modern web application for viewing and booking campers.
+
+### 👥 Team Projects (Team Lead)
+
+- [Clothica Shop](https://github.com/serhii-kravchenkoo/clothica-shop) – Next.js • Node.js • REST API  
+  Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, form validation, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI.
+
+- [Booksy](https://github.com/serhii-kravchenkoo/booksy) – HTML • CSS • JavaScript • REST API
+  Scram a team to develop a dynamic online bookstore; coordinated tasks, implemented responsive design, and integrated search functionality.
+
+- [Yachtjet](https://github.com/serhii-kravchenkoo/yachtjet) – HTML • CSS
+  Luxury yacht search website. Adaptive design, animations, modal windows, and burger menu for ordering.
 
 ---
 
-## 🗣 Languages
-
-- **English:** A2  
-- **Ukrainian:** Native
-
----
-
-## 🎯 Career Goals
-
-- Start my career as a **Junior / Trainee Fullstack or Frontend Developer**
-- Improve my skills in **React, Node.js, and modern web technologies**
-- Work in a supportive team with code reviews and mentorship
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhii-kravchenkoo&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/sergiy-kravchenkoo/)
-- [Telegram](https://t.me/boJack83)
+- [Telegram](https://t.me/boJack_fs)
 - [Email](mailto:sergkrava1983@gmail.com)
