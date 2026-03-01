@@ -49,4 +49,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sergiy-kravchenkoo/)
 - [Telegram](https://t.me/boJack_fs)
-- [Email](mailto:sergkrava1983@gmail.com)
