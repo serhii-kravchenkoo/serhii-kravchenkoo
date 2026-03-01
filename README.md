@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Serhii Kravchenko 👋</h1>
 
-<p>
-I am a motivated Junior Fullstack Developer with hands-on experience in building web applications using **JavaScript, React, and Node.js**. I focus on writing clean, maintainable code and creating user-friendly, responsive interfaces.
-I am eager to learn, grow professionally, and contribute to real-world projects in a collaborative team environment.
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
