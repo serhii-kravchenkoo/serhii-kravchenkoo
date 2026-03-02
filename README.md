@@ -26,7 +26,7 @@
 
 ### 💻 Personal Projects
 
-- [Note Hub](https://github.com/serhii-kravchenkoo/09-auth) – Next.js • REST API  
+- [Note Hub](https://github.com/serhii-kravchenkoo/09-auth) – Next.js, Node.js • REST API  
   Developed a full-featured note-taking application with user authentication and CRUD functionality.
 
 - [Campers-rent](https://github.com/serhii-kravchenkoo/campers-rent/) – HTML • CSS • JavaScript  
