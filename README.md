@@ -32,7 +32,7 @@
 - [Campers-rent](https://github.com/serhii-kravchenkoo/campers-rent/) – HTML • CSS • JavaScript  
   Built a modern web application for viewing and booking campers.
 
-### 👥 Team Projects (Scram Master)
+### 👥 Team Projects (Scram Master and developer)
 
 - [Clothica Shop](https://github.com/serhii-kravchenkoo/clothica-shop) – Next.js • Node.js • REST API  
   Developed a full-featured e-commerce clothing platform with dynamic catalog, product filtering, form validation, theme switching, and API-driven backend integration. Implemented advanced state management (Zustand, React Query), responsive UI.
