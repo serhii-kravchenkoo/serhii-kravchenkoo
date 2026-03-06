@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Serhii Kravchenko 👋</h1>
+<h1 align="center">Hi, I'm Serhii Kravchenko</h1>
 
 ## 🛠️ Tech Stack
 
