@@ -23,7 +23,6 @@
 ---
 
 ## 🚀 Projects
-
 ### 💻 Personal Projects
 
 - [Note Hub](https://github.com/serhii-kravchenkoo/09-auth) – Next.js, Node.js • REST API  
